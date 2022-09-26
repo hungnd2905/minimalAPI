@@ -4,8 +4,8 @@
 Commands:
 
 - dotnet user-secrets init
-- dotnet user-secrets set "UserId" "<userid>"
-- dotnet user-secrets set "Password" "<password>"
+- dotnet user-secrets set "UserId" "..."
+- dotnet user-secrets set "Password" "..."
 
 - docker-compose up -d
 
